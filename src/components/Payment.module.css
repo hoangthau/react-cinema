@@ -1,0 +1,27 @@
+.info {
+  display: flex;
+}
+
+.info p {
+  text-align: left;
+}
+
+.money.money {
+  text-align: right;
+  font-size: 24px;
+  flex-grow: 1;
+}
+
+.main {
+  max-width: 700px;
+  margin: auto;
+}
+
+.main button {
+  width: 100%;
+  border: 1px solid;
+  background: #111;
+  color: #fff;
+  padding: 12px 0;
+  font-size: 24px;
+}

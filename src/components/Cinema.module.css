@@ -1,0 +1,68 @@
+.cinema {
+  max-width: 700px;
+  margin: auto;
+  background: #111;
+  padding: 24px;
+  color: #fff;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.column,
+.rowName {
+  border: 1px solid #fff;
+  color: #111;
+  margin: 4px;
+  padding: 4px;
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  border-radius: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rowName {
+  border: none;
+  color: #fff;
+}
+
+.selecting {
+  border-color: #fff;
+  background-color: #fff;
+}
+
+.screen {
+  width: 80%;
+  height: 8px;
+  margin: auto;
+  background: #ccc;
+  margin-top: 50px;
+}
+
+.screenText {
+  margin-bottom: 50px;
+}
+
+.vip {
+  border-color: green;
+}
+
+.deluxe {
+  border-color: blue;
+}
+
+.selected {
+  background-color: gray;
+  border-color: gray;
+}
+
+.chairs {
+  overflow: hidden;
+  position: relative;
+}
