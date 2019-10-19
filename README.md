@@ -1,7 +1,7 @@
 # React Cinema App
 
 ### Getting Started
-Install Node v9.x or larger
+Install Node v9.x or higher 
 
 There are two methods for getting started with this repo.
 
