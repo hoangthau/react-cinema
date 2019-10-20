@@ -45,7 +45,6 @@ class Cinema extends React.Component {
 
   render() {
     const { chairs, scale, selection } = this.state;
-    console.log(chairs);
     return (
       <div>
         <div className={s.cinema}>

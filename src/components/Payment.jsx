@@ -2,7 +2,7 @@ import React from "react";
 
 import s from "./Payment.module.css";
 
-const Payment = ({ money }) => (
+const Payment = ({ money = 0 }) => (
   <div className={s.main}>
     <div className={s.info}>
       <div>
