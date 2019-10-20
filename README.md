@@ -1,7 +1,14 @@
 # React Cinema App
 
 ### Getting Started
-Install Node v9.x or higher 
+Install Node v9.x or higher and install Yarn
+
+```
+> node -v
+> npm -v
+> npm instal -g yarn
+
+```
 
 There are two methods for getting started with this repo.
 
