@@ -8,7 +8,7 @@ Install Node v9.x or higher and install Yarn
 ```
 > node -v
 > npm -v
-> npm instal -g yarn
+> npm install -g yarn
 
 ```
 
