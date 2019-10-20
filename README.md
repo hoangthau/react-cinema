@@ -1,6 +1,6 @@
 # React Cinema App
 
-You can playground with demo site: http://react-cinema.surge.sh/
+You can play around with demo site: http://react-cinema.surge.sh/
 
 ### Getting Started
 Install Node v9.x or higher 
