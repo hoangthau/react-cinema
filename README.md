@@ -1,5 +1,7 @@
 # React Cinema App
 
+You can play around with demo site: http://react-cinema.surge.sh/
+
 ### Getting Started
 Install Node v9.x or higher and install Yarn
 
